@@ -1,4 +1,4 @@
-# UNP-project_BI-with-powerbi_dataco
+# UNP-Project_BI-with-powerBI_DataCo
 
 Completed this project as a part of BI with powerbi course 
 
