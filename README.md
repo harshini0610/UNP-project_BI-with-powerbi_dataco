@@ -8,4 +8,4 @@ Key highlights
 
 2.Created KPIs for better anaylsis and presentation
 
-PBIX file link: https://drive.google.com/file/d/1hFzSzx20QDzqZHVJcVL89wjXAJttOGsm/view?usp=drive_link
+file link: https://drive.google.com/file/d/1hFzSzx20QDzqZHVJcVL89wjXAJttOGsm/view?usp=drive_link
